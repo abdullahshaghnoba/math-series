@@ -12,4 +12,4 @@
 #### pip install -r requirements.txt
 ---
 ### How to run the tests application? 
-#### while in test_series.py type : pytest 
+#### while in test_series.py type **pytest**
